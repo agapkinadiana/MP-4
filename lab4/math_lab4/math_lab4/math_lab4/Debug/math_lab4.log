@@ -1,0 +1,3 @@
+﻿  math_lab4.cpp
+\\mac\home\desktop\math_lab4\math_lab4\math_lab4\math_lab4.cpp(53): warning C4305: инициализация: усечение из "double" в "float"
+  math_lab4.vcxproj -> \\Mac\Home\Desktop\math_lab4\math_lab4\Debug\math_lab4.exe

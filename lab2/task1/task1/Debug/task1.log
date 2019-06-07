@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  Combi.cpp
+\\mac\home\desktop\study\4 term\mp\lab2\task1\task1\combi.cpp(42): warning C4334: <<: результат 32-разрядного смещения неявно преобразуется в 64-разрядное значение (предполагалось 64-разрядное смещение?)
+  task1.cpp
+  Создание кода...
+  task1.vcxproj -> \\Mac\Home\Desktop\STUDY\4 term\MP\lab2\task1\Debug\task1.exe
